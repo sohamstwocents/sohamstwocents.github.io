@@ -1,0 +1,6 @@
+@import ""
+.listfeaturedtag .card-footer {
+  border-bottom: 0.7px solid rgba(0, 0, 0, .125);
+  border-radius: .25rem;
+  transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+}

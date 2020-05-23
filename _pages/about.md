@@ -1,35 +1,50 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Who is Soham?
 permalink: /about
-comments: true
+comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<div class="container-fluid">
+  <h5 style="font-weight: 450; color: grey;"> An engineer trying to put his experiences, thoughts, and a handful of emotions into words. Currently Soham is a computer science masters student at University of Southern California in Los Angeles. If you wish to stay updated, subscript to the newsletter. Here is a collection of some of his favourite clicks... </h5>
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+  <div class="row" style="width: 100%;">
+    <div class="col-md-4 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover; margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about1.jpg" />
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-12" style="max-height:400px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about2.jpg" />
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about3.jpg" />
+    </div>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+    <div class="col-md-6 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about4.jpeg" />
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about12.jpg" />
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about6.jpeg" />
+    </div>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+    <div class="col-md-5 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about16.jpeg" />
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about11.jpg" />
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-12" style="max-height:500px; object-fit:cover;margin:10px">
+      <img style="max-height:500px; object-fit:cover; margin:10px" src="/assets/images/about10.jpeg" />
+    </div>
 
-<h4>Questions or bug reports?</h4>
+    <div class="col-md-6 col-sm-6 col-xs-12" style="object-fit:cover; height: 500px;">
+      <img style="max-height:500px; object-fit:cover; margin:5px" src="/assets/images/about13.jpg" />
+    </div>
+    <div class="col-md-6 col-sm-6 col-xs-12" style="object-fit:cover; height: 500px;">
+      <img style="max-height:500px; object-fit:cover; margin:5px" src="/assets/images/about14.jpeg" />
+    </div>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
+  </div>
 </div>
