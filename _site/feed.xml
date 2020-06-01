@@ -5,9 +5,37 @@
     <description>A collection of short pieces of text</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 May 2020 00:06:03 -0700</pubDate>
-    <lastBuildDate>Sat, 23 May 2020 00:06:03 -0700</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2020 00:47:39 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:47:39 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Quarantine</title>
+        <description>&lt;p&gt;Here is a post about the reason I started writing in the first place…. Quarantine. Before staying at home became a lifestyle, things were different. Playing cricket on weekends and driving half an hour to have vada pav in LA was normal. For me, things changed the day my university shut the gym. I had completed my shift at the bookstore and was on my way to the gym when I saw that the gym had shut and that too for an indefinite period of time. The next day it was declared that classes would be conducted online. It never got better from that point. My roommates and I had to cancel our trip to Arizona. Cricket on weekends was totally out of question now. &lt;em&gt;Normal&lt;/em&gt; was was going to be different now.&lt;/p&gt;
+
+&lt;p&gt;The first thing my roommates and I did was panic buying of toilet paper (Because, in the west, nothing is more important than toilet paper) and frozen food from the supermarket. We stocked up the refrigerator and the kitchen cabinets with all sorts of eatables. The university had shut down all facilities, so no more on-campus jobs. Deep down I felt relieved that I would have to stay at home all the time and have very limited social interaction. The first few days were very relaxing. We did was everyone around the world was doing during this period, made &lt;em&gt;Dalgona&lt;/em&gt; coffee, baked cakes, and played board games. Eventually, we got &lt;em&gt;bored&lt;/em&gt; of playing &lt;em&gt;board&lt;/em&gt; games…I agree that was poor wordplay.&lt;/p&gt;
+
+&lt;p&gt;After a few days, it got really monotonous. The only productive part of the day was working on homework assignments. For someone who tries to keep himself busy all the time, this situation left me completely stumped. Since this lockdown wasn’t going to end anytime soon, I had to find something to keep myself occupied. The first thing I started with was practising mindfulness.
+I started with a 14-day mindfulness exercises course and followed it up with atleast 15 minutes of meditation every day. If you think that keeping your mind empty and thinking about &lt;em&gt;nothing&lt;/em&gt; is easy, it is not! My aim was to meditate every day and make it a part of daily routine. With so much free time at hand, meditation has really helped me prevent overthinking. It’s been over 2 months and I can safely say that I have not skipped a single day so far. The next thing I did during this lockdown was to start exercising at home. I got myself to take up the 100 push-ups per day challenge to ensure that I exercised every day. For the first few days, it is difficult to do the same thing over and over again. But after a while, it becomes a habit.&lt;/p&gt;
+
+&lt;p&gt;Peer pressure is worse when it’s via social media, that too when your LinkedIn feed has more activity than Facebook and Instagram combined. Every other person is either baking, working out, or doing online courses to learn something new. Since my friend started learning guitar, I wanted to do it too (No! I wouldn’t jump off a cliff if my friend jumped off a cliff), and I was never going to have more free time at hand than I had right now. About 3 weeks ago, I finally got myself to order a guitar and start with an online course. The last thing to check off the Todo list before kicking off with my internship was to start a personal blog.&lt;/p&gt;
+
+&lt;p&gt;Now that it’s been over a week into the internship, I feel much more relaxed. I have realised that what I was really missing during this period was constant routine. Waking up every morning and not having a fixed set of things to do was making me restless.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/quarantine/</link>
+        <guid isPermaLink="true">http://localhost:4000/quarantine/</guid>
+        
+        <category>thoughts</category>
+        
+        <category>lockdown</category>
+        
+        <category>quarantine</category>
+        
+        
+        <category>Experience</category>
+        
+      </item>
     
       <item>
         <title>Listen...</title>

@@ -29,7 +29,7 @@
 <meta property="og:url" content="http://localhost:4000/about" />
 <meta property="og:site_name" content="Soham’s 2 cents" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/about","headline":"Who is Soham?","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/hero.png"}},"description":"A collection of short pieces of text","@type":"WebPage","@context":"http://schema.org"}</script>
+{"url":"http://localhost:4000/about","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/hero.png"}},"description":"A collection of short pieces of text","@type":"WebPage","headline":"Who is Soham?","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -151,7 +151,21 @@
 <!-- Content
 ================================================== -->
 <div class="main-content">
-    <section>
+    <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167493145-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167493145-1');
+</script>
+
+  </head>
+
+
+<section>
     <div class="section-title">
         <h2><span>Who is Soham?</span></h2>
     </div>
@@ -205,6 +219,7 @@
 
     
 </section>
+
 </div>
 
 
@@ -241,6 +256,8 @@
                     <a class="mt-1 mb-1" href="/categories#Listen">Listen (1)</a>
                 
                     <a class="mt-1 mb-1" href="/categories#Abstract">Abstract (1)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#Experience">Experience (1)</a>
                 
             
             
