@@ -6,7 +6,7 @@ categories: [ Experience ]
 tags: [ thoughts, lockdown, quarantine ]
 image: assets/images/quarantine.jpg
 description: "First couple of months in quarantine put into words"
-featured: true
+featured: false
 hidden: false
 ---
 
