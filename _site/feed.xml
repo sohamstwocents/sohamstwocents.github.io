@@ -5,8 +5,8 @@
     <description>A collection of short pieces of text</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Sep 2020 15:57:39 -0700</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2020 15:57:39 -0700</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2020 02:47:42 -0700</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2020 02:47:42 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -122,6 +122,37 @@ I started with a 14-day mindfulness exercises course and followed it up with atl
         
         
         <category>Experience</category>
+        
+      </item>
+    
+      <item>
+        <title>Last Time ?</title>
+        <description>&lt;p&gt;As I have stated earlier, I am trying to learn how to meditate since the quarantine started. I have tried using different resources and the one that’s currently working really well for me is the &lt;em&gt;Waking Up&lt;/em&gt; app by &lt;em&gt;Sam Harris&lt;/em&gt;. Along with the daily mediation practice, it has a ton of theory about consciousness, awareness, etc. While listening to some of those audio clips, there was one that really stuck out for me. It talked about remembering “the last time” we did something. No, it’s not about doing something for the last time before dying. It’s about things we would do for the last time &lt;em&gt;much much much&lt;/em&gt; before dying.&lt;/p&gt;
+
+&lt;p&gt;When I listened to this audio clip, I put deliberate thought into remembering when was the last time I did certain things and if I would ever get a chance to do them again. I remember I loved playing cricket with friends in my building but I cannot recall the last time I did it. I didn’t know when the last time was. There are friends from school that I might not meet again and I don’t remember how the last meeting went or how I felt at that moment. I know I am too young to talk about this and it’s too early to think about it at this point in life.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/lastday.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m not saying that we should spend every moment as our last. It’s practically impossible to do that. The point I am trying to make here is to be aware of our actions. From the time we wake up, to the time we go to bed, we do so many things involuntarily. There may be times when you might have the TV on but you’re busy scrolling through Instagram. At bedtime, if you try to recall all the things you have done in a day, you would definitely not remember 100%.&lt;/p&gt;
+
+&lt;p&gt;What we can do here is give our attention to the right things. It does require a conscious effort and is really difficult in the beginning. At times, we do zone out or get occupied with random thoughts that distract us from the task at hand. But, if we try to be aware of the actions we are performing, we might be able to savour life much more.&lt;/p&gt;
+
+&lt;p&gt;I am only starting out with the whole mindfulness process and these are my thoughts. If you have something that you would like to share, feel free to drop a comment or reach out via Instagram.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 May 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/LastDay/</link>
+        <guid isPermaLink="true">http://localhost:4000/LastDay/</guid>
+        
+        <category>thoughts</category>
+        
+        <category>mindfulness</category>
+        
+        <category>meditation</category>
+        
+        
+        <category>Mindfulness</category>
+        
+        <category>Awareness</category>
         
       </item>
     

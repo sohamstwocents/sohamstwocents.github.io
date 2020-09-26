@@ -6,7 +6,7 @@ categories: [ Travel, Abstract ]
 tags: [ thoughts ]
 image: assets/images/whytravel.jpg
 description: "Some of the lessons I have learnt by traveling to different places."
-featured: true
+featured: false
 hidden: false
 ---
 
