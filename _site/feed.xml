@@ -5,9 +5,65 @@
     <description>A collection of short pieces of text</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Sep 2020 02:47:42 -0700</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2020 02:47:42 -0700</lastBuildDate>
+    <pubDate>Mon, 12 Apr 2021 17:08:48 -0700</pubDate>
+    <lastBuildDate>Mon, 12 Apr 2021 17:08:48 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>It's Okay</title>
+        <description>&lt;p&gt;It’s been a while since this website has seen a new post and that speaks volumes about how lazy I have been. It has been 1 year since the lockdown was put into effect. Almost a year ago I started this blog to write about things I would do during the lockdown (which I thought would be eventful, well clearly not). I was hoping that a year later I would be able to write about each one of those goals that I achieved but that’s not the case and I believe I’m not the only one.&lt;/p&gt;
+
+&lt;p&gt;In the beginning, like many others, I was highly motivated to do things that I wouldn’t otherwise take out time for. That motivation was temporary, just like the &lt;em&gt;Dalgona Coffee&lt;/em&gt; trend. I did plan on learning to play the guitar but I have barely been able to learn a single song. It’s been months since I’ve touched it and I do feel guilty about it at times. Same story with meditation and exercise. My point being, most of the time, it’s not possible to achieve goals to the fullest. Every single step in the right direction is still progress. Whether it’s learning 2 new guitar chords or cooking a new dish. Each one of us is moving forward in some way or the other and that’s what matters most. While the destination is important, it’s the journey that helps us gain the ability to get to the destination. Whether that journey is 1 big step or 100 small steps, in a matter of time, each one of us will reach where we want to with the right type of motivation. Even if things don’t work out as planned (like my plan to workout :p) there will always be another opportunity to capitalise on.&lt;/p&gt;
+
+&lt;p&gt;Now, to get some motivation let’s look at some of the positives. I was lucky enough to get a chance to travel halfway across the world to have pani puri, and meet my family of course. IPL is starting off for the second time in 6 months. I got to watch a ton of tv shows on Netflix. Got a few sneakers. Made my first Instagram reel (not sure if that’s positive but check it out).&lt;/p&gt;
+
+&lt;p&gt;The key here is to not go too hard on yourself. For someone who cannot go more than a couple of days without feeling productive, doing this has been very difficult. Especially when my Instagram and LinkedIn feed is filled with people posting their personal achievements. It took me a while to get this in my head, but I have finally realised that life isn’t all about accomplishments. Every single day will not be exciting so it is ok to take a break, decompress, and get your mind in the right place before starting out again. So don’t get disheartened if things don’t always go your way. &lt;em&gt;Apna Time Aayega&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Apr 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/ItsOkay/</link>
+        <guid isPermaLink="true">http://localhost:4000/ItsOkay/</guid>
+        
+        <category>thoughts</category>
+        
+        
+        <category>quarantine</category>
+        
+        <category>thoughts</category>
+        
+        <category>lockdown</category>
+        
+      </item>
+    
+      <item>
+        <title>Last Time ?</title>
+        <description>&lt;p&gt;As I have stated earlier, I am trying to learn how to meditate since the quarantine started. I have tried using different resources and the one that’s currently working really well for me is the &lt;em&gt;Waking Up&lt;/em&gt; app by &lt;em&gt;Sam Harris&lt;/em&gt;. Along with the daily mediation practice, it has a ton of theory about consciousness, awareness, etc. While listening to some of those audio clips, there was one that really stuck out for me. It talked about remembering “the last time” we did something. No, it’s not about doing something for the last time before dying. It’s about things we would do for the last time &lt;em&gt;much much much&lt;/em&gt; before dying.&lt;/p&gt;
+
+&lt;p&gt;When I listened to this audio clip, I put deliberate thought into remembering when was the last time I did certain things and if I would ever get a chance to do them again. I remember I loved playing cricket with friends in my building but I cannot recall the last time I did it. I didn’t know when the last time was. There are friends from school that I might not meet again and I don’t remember how the last meeting went or how I felt at that moment. I know I am too young to talk about this and it’s too early to think about it at this point in life.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/lastday.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m not saying that we should spend every moment as our last. It’s practically impossible to do that. The point I am trying to make here is to be aware of our actions. From the time we wake up, to the time we go to bed, we do so many things involuntarily. There may be times when you might have the TV on but you’re busy scrolling through Instagram. At bedtime, if you try to recall all the things you have done in a day, you would definitely not remember 100%.&lt;/p&gt;
+
+&lt;p&gt;What we can do here is give our attention to the right things. It does require a conscious effort and is really difficult in the beginning. At times, we do zone out or get occupied with random thoughts that distract us from the task at hand. But, if we try to be aware of the actions we are performing, we might be able to savour life much more.&lt;/p&gt;
+
+&lt;p&gt;I am only starting out with the whole mindfulness process and these are my thoughts. If you have something that you would like to share, feel free to drop a comment or reach out via Instagram.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Oct 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/LastDay/</link>
+        <guid isPermaLink="true">http://localhost:4000/LastDay/</guid>
+        
+        <category>thoughts</category>
+        
+        <category>mindfulness</category>
+        
+        <category>meditation</category>
+        
+        
+        <category>Mindfulness</category>
+        
+        <category>Awareness</category>
+        
+      </item>
     
       <item>
         <title>Why Travel ?</title>
@@ -122,37 +178,6 @@ I started with a 14-day mindfulness exercises course and followed it up with atl
         
         
         <category>Experience</category>
-        
-      </item>
-    
-      <item>
-        <title>Last Time ?</title>
-        <description>&lt;p&gt;As I have stated earlier, I am trying to learn how to meditate since the quarantine started. I have tried using different resources and the one that’s currently working really well for me is the &lt;em&gt;Waking Up&lt;/em&gt; app by &lt;em&gt;Sam Harris&lt;/em&gt;. Along with the daily mediation practice, it has a ton of theory about consciousness, awareness, etc. While listening to some of those audio clips, there was one that really stuck out for me. It talked about remembering “the last time” we did something. No, it’s not about doing something for the last time before dying. It’s about things we would do for the last time &lt;em&gt;much much much&lt;/em&gt; before dying.&lt;/p&gt;
-
-&lt;p&gt;When I listened to this audio clip, I put deliberate thought into remembering when was the last time I did certain things and if I would ever get a chance to do them again. I remember I loved playing cricket with friends in my building but I cannot recall the last time I did it. I didn’t know when the last time was. There are friends from school that I might not meet again and I don’t remember how the last meeting went or how I felt at that moment. I know I am too young to talk about this and it’s too early to think about it at this point in life.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/lastday.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m not saying that we should spend every moment as our last. It’s practically impossible to do that. The point I am trying to make here is to be aware of our actions. From the time we wake up, to the time we go to bed, we do so many things involuntarily. There may be times when you might have the TV on but you’re busy scrolling through Instagram. At bedtime, if you try to recall all the things you have done in a day, you would definitely not remember 100%.&lt;/p&gt;
-
-&lt;p&gt;What we can do here is give our attention to the right things. It does require a conscious effort and is really difficult in the beginning. At times, we do zone out or get occupied with random thoughts that distract us from the task at hand. But, if we try to be aware of the actions we are performing, we might be able to savour life much more.&lt;/p&gt;
-
-&lt;p&gt;I am only starting out with the whole mindfulness process and these are my thoughts. If you have something that you would like to share, feel free to drop a comment or reach out via Instagram.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 May 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/LastDay/</link>
-        <guid isPermaLink="true">http://localhost:4000/LastDay/</guid>
-        
-        <category>thoughts</category>
-        
-        <category>mindfulness</category>
-        
-        <category>meditation</category>
-        
-        
-        <category>Mindfulness</category>
-        
-        <category>Awareness</category>
         
       </item>
     
